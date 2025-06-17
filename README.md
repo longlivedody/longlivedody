@@ -14,8 +14,6 @@
 ### 👨‍💻 About Me
 
 - 🚀 I'm a Junior Flutter developer passionate about building scalable cross-platform apps  
-- 🔭 Currently working on integrating Firebase and Supabase in social media features  
-- 🌱 Learning advanced animations, FCM, and state management  
 - 🧠 I enjoy solving real-world problems with clean UI/UX  
 - 📫 How to reach me: **mahmoudmansor2001@gmail.com**  
 - 🌐 Portfolio: [mahmoud-magdy-portfolio](https://mahmoud-magdy-7f3rheg.gamma.site/)  

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Magdy</h1>
-<h3 align="center">Flutter Developer | Cross-Platform Mobile Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Cross-Platform+Applications;Open+Source+Enthusiast;Welcome+to+my+GitHub!&center=true&width=500&height=50&color=0FFFC0&vCenter=true&size=22" />

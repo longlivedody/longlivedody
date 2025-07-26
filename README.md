@@ -16,7 +16,7 @@
 - 🧠 I enjoy solving real-world problems with clean UI/UX  
 - 📫 How to reach me: **mahmoudmansor2001@gmail.com**  
 - 🌐 Portfolio: [mahmoud-magdy-portfolio](https://mahmoud-magdy-7f3rheg.gamma.site/)  
-- 📄 [View my Resume](https://drive.google.com/file/d/1oW1R9f45Vq5H72A05Ri02A49SoeE05Lq/view?usp=drive_link)  
+- 📄 [View my Resume](https://drive.google.com/file/d/11SKmra_jsJVHI9aBOgL2LuTdvLaz4AcI/view?usp=sharing)  
 
 ---
 
